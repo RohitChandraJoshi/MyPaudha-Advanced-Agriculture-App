@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    app:layout_collapseMode="parallax"
+    >
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+
+
+
+
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraint1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:gravity="center">
+
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/yourCardViewId"
+                    style="@style/CardView."
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    app:cardCornerRadius="30dp"
+                    app:cardElevation="30dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.029999971">
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/grad_back"
+                        android:paddingBottom="16dp">
+
+                        <!-- ImageView inside CardView -->
+                        <ImageView
+                            android:id="@+id/pestid"
+                            android:layout_width="match_parent"
+                            android:layout_height="150dp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/vegitables1"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <!-- TextView for the title below ImageView -->
+                        <TextView
+                            android:id="@+id/titleTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/pestid"
+                            android:layout_centerInParent="true"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
+                            android:text="Vegetables"
+                            android:textColor="#FFFFFF"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <!-- TextView for description below title -->
+
+
+                        <!-- Button below description -->
+                        <Button
+                            android:id="@+id/btnVegetables"
+                            style="@style/MyButtonStyle"
+                            android:layout_width="120dp"
+                            app:backgroundTint="@null"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/titleTextView"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="8dp"
+                            android:background="@drawable/rounded_gradient_button"
+                            android:elevation="8dp"
+                            android:onClick="btn_disease_module"
+                            android:text="Let's Start"
+                            android:textColor="@android:color/white" />
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/secondCardView"
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="30dp"
+                    app:cardBackgroundColor="#FFC0CB"
+                    app:cardCornerRadius="30dp"
+                    app:cardElevation="30dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/yourCardViewId"
+                    app:layout_constraintVertical_bias="0.05">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/grad_back"
+                        android:paddingBottom="16dp"
+
+
+                        >
+
+                        <!-- ImageView inside CardView -->
+                        <ImageView
+                            android:id="@+id/pestid1"
+                            android:layout_width="match_parent"
+                            android:layout_height="150dp"
+
+
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/fruits1"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <!-- TextView for the title below ImageView -->
+                        <TextView
+                            android:id="@+id/titleTextView1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/pestid1"
+                            android:layout_centerInParent="true"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
+                            android:text="Fruits"
+                            android:textColor="#FFFFFF"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <!-- TextView for description below title -->
+
+
+                        <!-- Button below description -->
+                        <Button
+                            android:id="@+id/btnFruits"
+                            style="@style/MyButtonStyle"
+                            android:layout_width="120dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/titleTextView1"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="8dp"
+                            android:background="@drawable/rounded_gradient_button"
+                            android:elevation="8dp"
+                            android:onClick="btn_flowers_module"
+                            android:text="Let's Start"
+                            android:textColor="@android:color/white"
+                            app:backgroundTint="@null" />
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/ThirdCardViewId"
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="30dp"
+                    app:cardBackgroundColor="#FFC0CB"
+                    app:cardCornerRadius="30dp"
+                    app:cardElevation="30dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/secondCardView"
+                    app:layout_constraintVertical_bias="0.05">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/grad_back"
+                        android:paddingBottom="16dp">
+
+                        <!-- ImageView inside CardView -->
+                        <ImageView
+                            android:id="@+id/pestid2"
+                            android:layout_width="match_parent"
+                            android:layout_height="150dp"
+
+
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/flowers3"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <!-- TextView for the title below ImageView -->
+                        <TextView
+                            android:id="@+id/titleTextView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/pestid2"
+                            android:layout_centerInParent="true"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
+                            android:text="Flowers"
+                            android:textColor="#FFFFFF"
+                            android:textSize="24sp"
+                            android:textStyle="bold" />
+
+                        <!-- TextView for description below title -->
+
+
+                        <!-- Button below description -->
+                        <Button
+                            android:id="@+id/btnFlowers"
+                            style="@style/MyButtonStyle"
+                            android:layout_width="120dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/titleTextView2"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="8dp"
+                            android:background="@drawable/rounded_gradient_button"
+                            android:elevation="8dp"
+                            android:onClick="btn_pest_module"
+                            android:text="Let's Start"
+                            android:textColor="@android:color/white"
+                            app:backgroundTint="@null" />
+
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+            <!-- Add your contact information views here -->
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

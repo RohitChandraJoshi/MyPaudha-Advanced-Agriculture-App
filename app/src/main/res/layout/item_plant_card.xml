@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    >
+
+    <!-- First CardView with Image and Text -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="350dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:layout_height="300dp"
+        android:layout_weight="10"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="40dp">
+
+        <!-- Add the content for the first card (ImageView and TextView) here -->
+
+
+        <ImageView
+            android:id="@+id/imgPlant1"
+            android:layout_margin="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/plant_image_description1"
+            android:scaleType="centerCrop"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/tvPlantName1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="250dp"
+            android:gravity="center"
+            android:text="@string/default_plant_name1"
+            android:textColor="#333"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Plant Disease Detector</string>
+    <string name="leaf_disease_image">Image showing a leaf with disease</string>
+    <string name="result_default_text">Please select an image to detect plant disease</string>
+    <string name="plant_image_description1">Plant Image 1</string>
+    <string name="plant_image_description2">Plant Image 2</string>
+
+    <string name="default_plant_name1">Plant 1</string>
+    <string name="default_plant_name2">Plant 2</string>
+</resources>

@@ -1,0 +1,1547 @@
+[
+  {
+    "id": 1,
+    "plantName": "Tomato",
+    "image": "https://img.freepik.com/free-photo/tomatoes_144627-15413.jpg",
+    "details": "Tomatoes are warm-season plants...",
+    "growingConditions": "Tomatoes require full sunlight...",
+    "careTips": "Water regularly, use fertilizer...",
+    "category": "Vegetable",
+    "scientificName": "Solanum lycopersicum",
+    "difficultyLevel": "Moderate",
+    "tags": ["Vegetable", "Sun-loving", "Moderate Watering"],
+    "source": "https://example.com/tomato-guide",
+    "growingGuide": {
+      "steps": [
+        "Start with quality seeds or seedlings from a reputable source.",
+        "Choose a sunny location with well-drained soil for planting.",
+        "Prepare the soil by adding compost or well-rotted manure.",
+        "Plant tomatoes at the recommended spacing, considering their mature size.",
+        "Water the plants regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around the base of the plants to retain moisture and suppress weeds.",
+        "Stake or provide support for the tomato plants as they grow to prevent sprawling.",
+        "Fertilize according to the needs of your specific tomato variety.",
+        "Prune the plants to remove excessive foliage and improve air circulation.",
+        "Monitor for pests and diseases, and take appropriate action if needed.",
+        "Harvest tomatoes when they reach the desired size and color, using clean, sharp scissors or pruning shears."
+      ],
+      "additionalTips": "Consider companion planting with basil to deter pests, and avoid planting tomatoes in the same spot every year to reduce the risk of soil-borne diseases."
+    }
+  },
+  {
+    "id": 2,
+    "plantName": "Potato",
+    "image": "https://m.media-amazon.com/images/I/313dtY-LOEL._AC_UF1000,1000_QL80_.jpg",
+    "details": "Potatoes are starchy tubers and a versatile staple in many cuisines...",
+    "growingConditions": "Potatoes prefer cool temperatures and well-drained soil...",
+    "careTips": "Hill soil around plants, keep well-watered...",
+    "category": "Vegetable",
+    "scientificName": "Solanum tuberosum",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Starchy", "Versatile"],
+    "source": "https://example.com/potato-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant certified seed potatoes in well-drained, loose soil with good fertility.",
+        "Space potato plants apart to allow for proper tuber development.",
+        "Hill soil around the base of potato plants to prevent tubers from exposure to sunlight.",
+        "Water consistently to keep the soil evenly moist, especially during the tuber formation stage.",
+        "Harvest potatoes when the tops of the plants have withered, typically in late summer or fall.",
+        "Potatoes can be stored in a cool, dark place for extended use in various culinary applications.",
+        "Watch for signs of pests and diseases, and address them promptly for a healthy crop."
+      ],
+      "additionalTips": "Consider growing different potato varieties for a range of flavors and textures."
+    }
+  },
+
+  {
+    "id": 3,
+    "plantName": "Carrot",
+    "image": "https://seed2plant.in/cdn/shop/products/carrotseeds.jpg?v=1604032858",
+    "details": "Carrots are root vegetables...",
+    "growingConditions": "Carrots prefer loose, well-drained soil...",
+    "careTips": "Thin seedlings, keep soil consistently moist...",
+    "category": "Vegetable",
+    "scientificName": "Daucus carota",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Root Vegetable", "Well-Drained Soil"],
+    "source": "https://example.com/carrot-guide",
+    "growingGuide": {
+      "steps": [
+        "Choose a site with well-drained, loose soil.",
+        "Sow carrot seeds directly into the soil or start with seedlings.",
+        "Thin seedlings to the recommended spacing as they grow.",
+        "Water consistently to keep the soil evenly moist.",
+        "Mulch around the carrots to retain soil moisture and suppress weeds.",
+        "Avoid over-fertilizing to prevent forked or misshapen carrots.",
+        "Harvest carrots when they reach the desired size, typically 60-80 days after planting.",
+        "Carefully pull or dig up the carrots, and wash them thoroughly before storage or consumption."
+      ],
+      "additionalTips": "Plant carrots near onions to enhance flavor and deter pests."
+    }
+  },
+  {
+    "id": 4,
+    "plantName": "Patta Gobi (Cabbage)",
+    "image": "https://onlyhydroponics.in/cdn/shop/products/cabbage1.webp?v=1668517176",
+    "details": "Patta Gobi, or cabbage, is a leafy green or purple biennial vegetable grown for its dense-leaved heads...",
+    "growingConditions": "Cabbage prefers well-drained soil, consistent moisture, and cool temperatures...",
+    "careTips": "Protect from extreme temperatures, provide ample space between plants...",
+    "category": "Vegetable",
+    "scientificName": "Brassica oleracea var. capitata",
+    "difficultyLevel": "Moderate",
+    "tags": ["Vegetable", "Cabbage", "Leafy Head"],
+    "source": "https://example.com/cabbage-guide",
+    "growingGuide": {
+      "steps": [
+        "Start cabbage seeds indoors or purchase seedlings for transplanting into the garden.",
+        "Plant cabbage in well-drained soil with consistent moisture, ensuring proper spacing.",
+        "Protect cabbage from extreme temperatures, as it prefers cooler conditions for optimal growth.",
+        "Harvest cabbage heads when they reach a suitable size and have a firm, dense texture.",
+        "Cabbage can be used fresh in salads, coleslaw, or cooked in various dishes.",
+        "Monitor for pests like cabbage worms and aphids, addressing them promptly to prevent damage."
+      ],
+      "additionalTips": "Cabbage comes in different varieties, including green, red, and savoy, each with its own flavor profile."
+    }
+  },
+  {
+    "id": 5,
+    "plantName": "Baigan (Eggplant)",
+    "image": "https://smartyield.in/wp-content/uploads/2021/06/Big-brinjal-eggplant.png",
+    "details": "Baigan, or eggplant, is a versatile vegetable known for its glossy, purple skin...",
+    "growingConditions": "Eggplant prefers well-drained, fertile soil and warm temperatures...",
+    "careTips": "Water consistently, provide support for heavy fruiting varieties...",
+    "category": "Vegetable",
+    "scientificName": "Solanum melongena",
+    "difficultyLevel": "Moderate",
+    "tags": ["Vegetable", "Eggplant", "Purple"],
+    "source": "https://example.com/eggplant-guide",
+    "growingGuide": {
+      "steps": [
+        "Start eggplant seeds indoors or purchase seedlings for transplanting into the garden.",
+        "Plant eggplant in well-drained, fertile soil, ensuring proper spacing for optimal growth.",
+        "Water consistently to keep the soil evenly moist, especially during dry periods.",
+        "Provide support for heavy fruiting varieties to prevent breakage.",
+        "Harvest eggplants when they reach a suitable size and have a glossy appearance.",
+        "Eggplants can be used in a variety of dishes, from grilling to roasting and stir-frying.",
+        "Monitor for pests like aphids and flea beetles, addressing them promptly to prevent damage."
+      ],
+      "additionalTips": "Choose eggplant varieties based on your culinary preferences, as they come in different shapes and sizes."
+    }
+  },
+  {
+    "id": 6,
+    "plantName": "Beans",
+    "image": "https://exat8rt6fi5.exactdn.com/wp-content/uploads/2022/05/french-beans-01.jpg?strip=all&lossy=1&fit=600%2C600&ssl=1",
+    "details": "Beans are a diverse group of leguminous vegetables, including green beans, snap beans, and more...",
+    "growingConditions": "Beans prefer well-drained soil, full sunlight, and warm temperatures...",
+    "careTips": "Provide support for climbing varieties, harvest regularly...",
+    "category": "Vegetable",
+    "scientificName": "Various species (Phaseolus vulgaris, Vigna spp., etc.)",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Beans", "Legumes"],
+    "source": "https://example.com/beans-guide",
+    "growingGuide": {
+      "steps": [
+        "Directly sow bean seeds in well-drained soil after the danger of frost has passed.",
+        "Provide support for climbing bean varieties, using trellises or poles.",
+        "Water consistently, especially during dry spells, to promote optimal pod development.",
+        "Harvest beans regularly when the pods are well-filled and before they become tough.",
+        "Beans can be enjoyed fresh, steamed, sautéed, or included in a variety of dishes.",
+        "Rotate bean crops to prevent diseases and pests, and consider inoculating with nitrogen-fixing bacteria."
+      ],
+      "additionalTips": "Beans come in various types, including green beans, snap beans, pole beans, and bush beans, each with its own characteristics."
+    }
+  },
+  {
+    "id": 7,
+    "plantName": "Arbi (Colocasia/Taro Root)",
+    "image": "https://i0.wp.com/www.mylittlemoppet.com/wp-content/uploads/2014/06/taro.jpg?ssl=1",
+    "details": "Arbi, or taro root, is a starchy tuberous vegetable with a brown, hairy outer skin...",
+    "growingConditions": "Taro prefers well-drained, sandy-loamy soil and warm temperatures...",
+    "careTips": "Provide consistent moisture, harvest when leaves yellow and die down...",
+    "category": "Vegetable",
+    "scientificName": "Colocasia esculenta",
+    "difficultyLevel": "Moderate",
+    "tags": ["Vegetable", "Tuber", "Starchy"],
+    "source": "https://example.com/arbi-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant taro corms or tubers in well-drained, sandy-loamy soil, spaced apart to allow for growth.",
+        "Water consistently to keep the soil evenly moist, especially during dry spells.",
+        "Provide a layer of mulch to retain moisture and suppress weeds.",
+        "Harvest taro roots when the leaves yellow and die down, typically after 6-8 months.",
+        "Carefully dig out the tubers, clean them, and store in a cool, dry place.",
+        "Taro can be boiled, fried, or used in various culinary dishes.",
+        "Monitor for pests like aphids and caterpillars, addressing them promptly to prevent damage."
+      ],
+      "additionalTips": "Taro is a staple in many cuisines and is known for its starchy, nutty flavor."
+    }
+  },
+
+  {
+    "id": 8,
+    "plantName": "Spinach",
+    "image": "https://freshji.in/wp-content/uploads/2020/09/Spinach-1.jpg",
+    "details": "Spinach is a leafy green vegetable...",
+    "growingConditions": "Spinach prefers cool weather...",
+    "careTips": "Keep the soil consistently moist, provide shade in hot weather...",
+    "category": "Vegetable",
+    "scientificName": "Spinacia oleracea",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Leafy Green", "Cool Weather"],
+    "source": "https://example.com/spinach-guide",
+    "growingGuide": {
+      "steps": [
+        "Choose a location with well-drained soil and partial shade, especially in hot climates.",
+        "Directly sow spinach seeds or plant seedlings in early spring or late summer.",
+        "Keep the soil consistently moist throughout the growing season.",
+        "Mulch around the spinach plants to retain soil moisture and suppress weeds.",
+        "Harvest spinach leaves when they reach a suitable size, typically 6-8 weeks after planting.",
+        "Use clean scissors or shears to cut the outer leaves, allowing the inner leaves to continue growing.",
+        "Avoid letting the plants bolt (produce flowers), as this can affect the taste of the leaves.",
+        "Consider succession planting for a continuous harvest."
+      ],
+      "additionalTips": "Spinach is rich in nutrients and is a versatile addition to salads, smoothies, and cooked dishes."
+    }
+  },
+
+  {
+    "id": 9,
+    "plantName": "Broccoli",
+    "image": "https://cdn.britannica.com/25/78225-050-1781F6B7/broccoli-florets.jpg",
+    "details": "Broccoli is a cool-season vegetable...",
+    "growingConditions": "Broccoli prefers cool temperatures...",
+    "careTips": "Provide consistent watering, protect from extreme heat...",
+    "category": "Vegetable",
+    "scientificName": "Brassica oleracea var. italica",
+    "difficultyLevel": "Moderate",
+    "tags": ["Vegetable", "Cool-Season", "Nutrient-Rich"],
+    "source": "https://example.com/broccoli-guide",
+    "growingGuide": {
+      "steps": [
+        "Start broccoli seeds indoors or purchase seedlings from a nursery.",
+        "Transplant seedlings to the garden after the last frost in spring or in late summer for a fall harvest.",
+        "Choose a location with well-drained soil and plenty of sunlight.",
+        "Water consistently to keep the soil evenly moist, especially during dry periods.",
+        "Mulch around the base of the broccoli plants to retain moisture and control weeds.",
+        "Fertilize with a balanced fertilizer, and monitor for pests like cabbage worms.",
+        "Harvest broccoli heads when the buds are tight and firm, typically 60-90 days after planting.",
+        "Cut the main head first, and secondary side shoots may develop for additional harvests."
+      ],
+      "additionalTips": "Broccoli is a nutritious vegetable high in vitamins, fiber, and antioxidants."
+    }
+  },
+  {
+    "id": 10,
+    "plantName": "Matar (Peas)",
+    "image": "https://lh3.googleusercontent.com/proxy/N7uxe2F2xJBBxt9ovdo7lMB_7GP_dt5UrESnEHPIkuruMgAgb0_R_zeAic4fijHvFpDlaXz3LDih35ulXWlnV_cWaq_wKJNaDF8qxmkvO-_bADpQ2Rymn2E",
+    "details": "Matar, or peas, are small, round, green seeds enclosed in edible pods...",
+    "growingConditions": "Peas prefer well-drained soil, cooler temperatures, and partial sunlight...",
+    "careTips": "Provide support for climbing varieties, water consistently...",
+    "category": "Vegetable",
+    "scientificName": "Pisum sativum",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Peas", "Edible Pods"],
+    "source": "https://example.com/matar-guide",
+    "growingGuide": {
+      "steps": [
+        "Directly sow pea seeds into well-drained soil in early spring or late summer.",
+        "Provide support for climbing pea varieties using trellises or stakes.",
+        "Water consistently to keep the soil evenly moist, especially during dry spells.",
+        "Harvest peas when the pods are well-filled and the peas are tender.",
+        "Peas can be enjoyed fresh, cooked, or used in a variety of dishes.",
+        "Rotate pea crops to prevent diseases and pests, and consider inoculating with nitrogen-fixing bacteria."
+      ],
+      "additionalTips": "Peas are a versatile vegetable and can be grown as both a spring and fall crop."
+    }
+  },
+  {
+    "id": 11,
+    "plantName": "Bhindi (Okra)",
+    "image": "https://static.toiimg.com/photo/92389024.cms",
+    "details": "Bhindi, or okra, is a warm-season vegetable known for its elongated, ribbed pods...",
+    "growingConditions": "Okra prefers well-drained soil, full sunlight, and warm temperatures...",
+    "careTips": "Provide support for tall varieties, harvest regularly...",
+    "category": "Vegetable",
+    "scientificName": "Abelmoschus esculentus",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Okra", "Warm-season"],
+    "source": "https://example.com/bhindi-guide",
+    "growingGuide": {
+      "steps": [
+        "Directly sow okra seeds in well-drained, warm soil after the danger of frost has passed.",
+        "Provide support for tall okra varieties, as they can grow quite tall.",
+        "Water consistently, especially during dry periods, to ensure optimal pod development.",
+        "Harvest okra pods when they are young and tender, typically 3-4 inches in length.",
+        "Regular harvesting promotes continuous production throughout the warm season.",
+        "Monitor for pests like aphids and caterpillars, addressing them promptly to prevent damage.",
+        "Okra is a versatile vegetable used in soups, stews, and can be fried or grilled for a delicious side dish."
+      ],
+      "additionalTips": "Choose okra varieties based on your preference for pod color, including green, red, or burgundy."
+    }
+  },
+
+  {
+    "id": 12,
+    "plantName": "Lettuce",
+    "image": "https://cdn.britannica.com/77/170677-050-F7333D51/lettuce.jpg",
+    "details": "Lettuce is a cool-season leafy green...",
+    "growingConditions": "Lettuce prefers cool temperatures...",
+    "careTips": "Provide partial shade in hot weather, water consistently...",
+    "category": "Vegetable",
+    "scientificName": "Lactuca sativa",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Leafy Green", "Cool-Season"],
+    "source": "https://example.com/lettuce-guide",
+    "growingGuide": {
+      "steps": [
+        "Select a well-drained location with partial shade, especially in warmer climates.",
+        "Directly sow lettuce seeds or transplant seedlings in early spring or late summer.",
+        "Keep the soil consistently moist, but avoid waterlogged conditions.",
+        "Mulch around the lettuce plants to retain soil moisture and suppress weeds.",
+        "Harvest lettuce leaves when they reach the desired size, typically 30-70 days after planting.",
+        "Use clean scissors or shears to cut the outer leaves, allowing the inner leaves to continue growing.",
+        "Avoid letting lettuce plants bolt (produce flowers), as this can lead to bitterness.",
+        "Succession planting allows for a continuous harvest throughout the growing season."
+      ],
+      "additionalTips": "Lettuce is a versatile green that can be used in salads, sandwiches, and wraps."
+    }
+  },
+
+  {
+    "id": 13,
+    "plantName": "Cucumber",
+    "image": "https://www.jiomart.com/images/product/original/590003548/cucumber-500-g-product-images-o590003548-p590003548-0-202203152002.jpg?im=Resize=(1000,1000)",
+    "details": "Cucumbers are warm-season vegetables with a refreshing taste...",
+    "growingConditions": "Cucumbers thrive in warm temperatures...",
+    "careTips": "Provide support for vining varieties, keep the soil consistently moist...",
+    "category": "Vegetable",
+    "scientificName": "Cucumis sativus",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Vining", "Warm-Season"],
+    "source": "https://example.com/cucumber-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant cucumber seeds or seedlings in a location with well-drained soil and full sunlight.",
+        "Provide support for vining cucumber varieties by using trellises or stakes.",
+        "Water consistently to keep the soil consistently moist, especially during flowering and fruiting.",
+        "Mulch around the cucumber plants to retain soil moisture and suppress weeds.",
+        "Harvest cucumbers when they reach the desired size, typically 50-70 days after planting.",
+        "Use clean scissors or shears to cut the cucumbers, avoiding damage to the plant.",
+        "Regular harvesting encourages continuous production.",
+        "Watch for pests like cucumber beetles and manage them promptly."
+      ],
+      "additionalTips": "Cucumbers are excellent in salads, sandwiches, and pickles."
+    }
+  },
+
+  {
+    "id": 14,
+    "plantName": "Bell Pepper",
+    "image": "https://fruitboxco.com/cdn/shop/products/Green_bell_pepper_800x.jpg?v=1579689894",
+    "details": "Bell peppers are colorful and sweet-tasting vegetables...",
+    "growingConditions": "Bell peppers prefer warm temperatures...",
+    "careTips": "Provide support for pepper plants, water consistently...",
+    "category": "Vegetable",
+    "scientificName": "Capsicum annuum",
+    "difficultyLevel": "Moderate",
+    "tags": ["Vegetable", "Sweet", "Warm-Season"],
+    "source": "https://example.com/bell-pepper-guide",
+    "growingGuide": {
+      "steps": [
+        "Start bell pepper seeds indoors several weeks before the last expected frost.",
+        "Transplant pepper seedlings to the garden after the soil has warmed and all risk of frost has passed.",
+        "Choose a sunny location with well-drained soil. Amend the soil with organic matter if needed.",
+        "Provide support for pepper plants, especially for larger varieties that may bear heavy fruit.",
+        "Water consistently, aiming for even soil moisture. Avoid overwatering or allowing the soil to dry out completely.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Harvest bell peppers when they reach their mature color and size, typically 60-90 days after planting.",
+        "Use clean scissors or shears to cut the peppers, avoiding damage to the plant."
+      ],
+      "additionalTips": "Bell peppers come in various colors and can be enjoyed raw, grilled, or cooked in dishes."
+    }
+  },
+
+  {
+    "id": 15,
+    "plantName": "Zucchini",
+    "image": "https://chefsmandala.com/wp-content/uploads/2018/03/Squash-Zucchini.jpg",
+    "details": "Zucchini is a summer squash with a mild flavor...",
+    "growingConditions": "Zucchini thrives in warm temperatures...",
+    "careTips": "Harvest zucchini when young, keep the soil consistently moist...",
+    "category": "Vegetable",
+    "scientificName": "Cucurbita pepo",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Summer Squash", "Mild Flavor"],
+    "source": "https://example.com/zucchini-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant zucchini seeds or seedlings in a location with well-drained soil and full sunlight.",
+        "Space plants according to their recommended spacing to allow for proper air circulation.",
+        "Water consistently to keep the soil consistently moist, especially during flowering and fruiting.",
+        "Mulch around the zucchini plants to retain soil moisture and suppress weeds.",
+        "Harvest zucchini when they are young and tender, typically 50-60 days after planting.",
+        "Use clean scissors or shears to cut the zucchini, avoiding damage to the plant.",
+        "Regular harvesting encourages continuous production.",
+        "Watch for pests like squash bugs and manage them promptly."
+      ],
+      "additionalTips": "Zucchini is versatile and can be used in various dishes, including sautés, grilling, and baking."
+    }
+  },
+
+  {
+    "id": 16,
+    "plantName": "Onion",
+    "image": "https://familyneeds.co.in/cdn/shop/products/2_445fc9bd-1bab-4bfb-8d5d-70b692745567_600x600.jpg?v=1600812246",
+    "details": "Onions are underground bulbs with a pungent flavor...",
+    "growingConditions": "Onions prefer well-drained soil and full sunlight...",
+    "careTips": "Plant onion sets or seeds, keep the soil consistently moist...",
+    "category": "Vegetable",
+    "scientificName": "Allium cepa",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Bulb", "Pungent"],
+    "source": "https://example.com/onion-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant onion sets or seeds in well-drained soil, incorporating organic matter for fertility.",
+        "Space onion sets or seedlings according to the recommended spacing for the specific variety.",
+        "Water consistently to keep the soil evenly moist, especially during bulb development.",
+        "Mulch around the onion plants to suppress weeds and conserve soil moisture.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Harvest onions when the tops have yellowed and fallen over, typically 100-130 days after planting.",
+        "Allow harvested onions to cure in a dry, well-ventilated area before storing.",
+        "Store cured onions in a cool, dry place away from direct sunlight."
+      ],
+      "additionalTips": "Onions add flavor to a wide range of dishes and can be stored for long periods when properly cured."
+    }
+  },
+
+  {
+    "id": 17,
+    "plantName": "Cauliflower",
+    "image": "https://m.media-amazon.com/images/I/91EdPVzD99L._AC_UF1000,1000_QL80_.jpg",
+    "details": "Cauliflower is a cruciferous vegetable with a mild flavor...",
+    "growingConditions": "Cauliflower prefers cool temperatures and full sunlight...",
+    "careTips": "Blanch heads to retain color, provide consistent moisture...",
+    "category": "Vegetable",
+    "scientificName": "Brassica oleracea var. botrytis",
+    "difficultyLevel": "Moderate",
+    "tags": ["Vegetable", "Mild Flavor", "Cool-Season"],
+    "source": "https://example.com/cauliflower-guide",
+    "growingGuide": {
+      "steps": [
+        "Start cauliflower seeds indoors or purchase seedlings for transplanting into the garden.",
+        "Choose a location with well-drained soil and full sunlight for optimal growth.",
+        "Space cauliflower plants according to the recommended spacing, providing adequate room for the heads to form.",
+        "Water consistently to keep the soil evenly moist, especially during dry spells.",
+        "Blanch cauliflower heads by gently tying leaves over the developing curds to protect them from the sun.",
+        "Harvest cauliflower heads when they reach a suitable size and have a tight, firm texture.",
+        "Consider successive plantings for a staggered harvest throughout the growing season.",
+        "Cauliflower can be enjoyed raw, steamed, roasted, or mashed."
+      ],
+      "additionalTips": "Cauliflower is a versatile vegetable with a mild flavor that complements various dishes."
+    }
+  },
+
+  {
+    "id": 18,
+    "plantName": "Radish",
+    "image": "https://freshji.in/wp-content/uploads/2020/09/Radish-1.jpg",
+    "details": "Radishes are fast-growing root vegetables with a crisp texture...",
+    "growingConditions": "Radishes prefer cool temperatures and well-drained soil...",
+    "careTips": "Plant in early spring or fall, thin seedlings for proper spacing...",
+    "category": "Vegetable",
+    "scientificName": "Raphanus sativus",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Root Crop", "Fast-Growing"],
+    "source": "https://example.com/radish-guide",
+    "growingGuide": {
+      "steps": [
+        "Directly sow radish seeds in well-drained soil, choosing a location with full sunlight.",
+        "Plant seeds in early spring or fall for the best results, as radishes prefer cooler temperatures.",
+        "Thin seedlings to ensure proper spacing, promoting the development of plump roots.",
+        "Water consistently to keep the soil evenly moist, especially during the root development stage.",
+        "Harvest radishes when they reach a suitable size and have a crisp texture.",
+        "Radishes mature quickly, often ready for harvest in 20-30 days, making them a great choice for early-season crops.",
+        "Use radishes in salads, garnishes, or enjoy them with dips.",
+        "Radish greens are edible and can be used in salads or cooked as greens."
+      ],
+      "additionalTips": "Radishes add a peppery crunch to salads and are an excellent choice for beginner gardeners due to their easy cultivation."
+    }
+  },
+  {
+    "id": 19,
+    "plantName": "Kale",
+    "image": "https://m.media-amazon.com/images/I/711CCK2JRmL._AC_UF1000,1000_QL80_.jpg",
+    "details": "Kale is a hearty and nutrient-rich leafy green that comes in various varieties...",
+    "growingConditions": "Kale prefers cool temperatures and partial shade...",
+    "careTips": "Harvest outer leaves, provide consistent moisture...",
+    "category": "Vegetable",
+    "scientificName": "Brassica oleracea var. sabellica",
+    "difficultyLevel": "Easy",
+    "tags": ["Vegetable", "Leafy Green", "Hearty"],
+    "source": "https://example.com/kale-guide",
+    "growingGuide": {
+      "steps": [
+        "Directly sow kale seeds in well-drained soil with a neutral pH and partial shade.",
+        "Thin seedlings to the recommended spacing to allow for proper leaf development.",
+        "Water consistently to keep the soil evenly moist, especially during dry spells.",
+        "Harvest outer leaves first, allowing the inner leaves to continue growing for future harvests.",
+        "Mulch around kale plants to conserve soil moisture and suppress weeds.",
+        "Kale is rich in vitamins and can be enjoyed in salads, smoothies, or sautéed dishes.",
+        "Consider using kale as an ornamental edible in garden borders or containers.",
+        "Protect kale from pests like aphids and cabbage worms using organic methods."
+      ],
+      "additionalTips": "Kale varieties include curly kale, lacinato (dinosaur) kale, and red Russian kale, each with its own unique flavor and texture."
+    }
+  },
+  {
+    "id": 20,
+    "plantName": "Brussels Sprouts",
+    "image": "https://bcfresh.ca/wp-content/uploads/2021/11/Brussels-sprouts.jpg",
+    "details": "Brussels sprouts are small, cabbage-like vegetables that grow in clusters on tall stalks...",
+    "growingConditions": "Brussels sprouts prefer cool temperatures and full sunlight...",
+    "careTips": "Remove lower leaves, provide consistent moisture...",
+    "category": "Vegetable",
+    "scientificName": "Brassica oleracea var. gemmifera",
+    "difficultyLevel": "Moderate",
+    "tags": ["Vegetable", "Cabbage Family", "Cool-Season"],
+    "source": "https://example.com/brussels-sprouts-guide",
+    "growingGuide": {
+      "steps": [
+        "Start Brussels sprouts seeds indoors or purchase seedlings for transplanting into the garden.",
+        "Choose a location with well-drained soil and full sunlight for optimal growth.",
+        "Plant Brussels sprouts with adequate spacing to allow for proper air circulation between plants.",
+        "Water consistently to keep the soil evenly moist, especially during dry periods.",
+        "Remove lower leaves as the sprouts develop to direct energy to the growing buds.",
+        "Harvest Brussels sprouts when the sprouts are firm and green, typically after the first frost.",
+        "Brussels sprouts can be roasted, sautéed, or used in various recipes for a unique flavor.",
+        "Protect Brussels sprouts from pests like aphids and caterpillars using organic methods."
+      ],
+      "additionalTips": "Frost enhances the flavor of Brussels sprouts, making them a great fall and winter vegetable."
+    }
+  },
+  {
+    "id": 21,
+    "plantName": "Apple",
+    "image": "https://www.shutterstock.com/image-photo/red-apple-isolated-on-white-600nw-1727544364.jpg",
+    "details": "Apples are delicious and nutritious fruits...",
+    "growingConditions": "Apples thrive in well-drained soil and require full sunlight...",
+    "careTips": "Plant apple trees in a location with good air circulation...",
+    "category": "Fruit",
+    "scientificName": "Malus domestica",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tree", "Sweet"],
+    "source": "https://example.com/apple-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant apple seeds or saplings in well-drained soil with good fertility.",
+        "Ensure apple trees receive full sunlight for optimal fruit production.",
+        "Prune apple trees regularly to promote air circulation and remove dead or diseased branches.",
+        "Provide adequate water, especially during dry periods.",
+        "Harvest apples when they are firm, crisp, and have reached the desired color.",
+        "Store harvested apples in a cool, dark place to extend their shelf life."
+      ],
+      "additionalTips": "Apples are versatile fruits used in various culinary applications, from snacks to desserts."
+    }
+  },
+  {
+    "id": 22,
+    "plantName": "Banana",
+    "image": "https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?s=612x612&w=0&k=20&c=MAc8AXVz5KxwWeEmh75WwH6j_HouRczBFAhulLAtRUU=",
+    "details": "Bananas are tropical fruits known for their sweet taste...",
+    "growingConditions": "Banana plants thrive in tropical climates with warm temperatures...",
+    "careTips": "Plant bananas in well-draining soil, and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Musa",
+    "difficultyLevel": "Easy",
+    "tags": ["Fruit", "Tropical", "Sweet"],
+    "source": "https://example.com/banana-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant banana suckers or seeds in well-draining, fertile soil.",
+        "Water banana plants regularly, ensuring the soil stays consistently moist.",
+        "Fertilize banana plants with a balanced fertilizer during the growing season.",
+        "Protect banana plants from strong winds that can damage their large leaves.",
+        "Harvest bananas when they are fully yellow and slightly soft to the touch.",
+        "Store harvested bananas at room temperature to ripen further."
+      ],
+      "additionalTips": "Bananas are a great source of potassium and are consumed worldwide."
+    }
+  },
+  {
+    "id": 23,
+    "plantName": "Orange",
+    "image": "https://media.istockphoto.com/id/185284489/photo/orange.jpg?s=612x612&w=0&k=20&c=m4EXknC74i2aYWCbjxbzZ6EtRaJkdSJNtekh4m1PspE=",
+    "details": "Oranges are citrus fruits known for their tangy flavor and high vitamin C content...",
+    "growingConditions": "Orange trees prefer subtropical to tropical climates with warm temperatures...",
+    "careTips": "Plant orange trees in well-draining soil, and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Citrus sinensis",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Citrus", "Tangy"],
+    "source": "https://example.com/orange-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant orange seeds or saplings in well-draining, slightly acidic soil.",
+        "Water orange trees regularly, ensuring the soil stays consistently moist.",
+        "Protect orange trees from frost during cold periods.",
+        "Fertilize orange trees with a balanced citrus fertilizer during the growing season.",
+        "Harvest oranges when they have developed their full color and flavor.",
+        "Store harvested oranges in a cool place to extend their shelf life."
+      ],
+      "additionalTips": "Oranges are not only delicious but also a great source of vitamin C."
+    }
+  },
+  {
+    "id": 24,
+    "plantName": "Grapes",
+    "image": "https://i.pinimg.com/736x/d6/22/30/d62230b9304f944c5839fd918fe2525c.jpg",
+    "details": "Grapes are juicy and sweet fruits commonly used for making wine...",
+    "growingConditions": "Grapevines thrive in temperate climates with well-drained soil and sunlight...",
+    "careTips": "Plant grapevines in well-draining soil and provide support for climbing...",
+    "category": "Fruit",
+    "scientificName": "Vitis vinifera",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Vine", "Juicy"],
+    "source": "https://example.com/grapes-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant grapevines in well-draining soil with good sun exposure.",
+        "Provide support for grapevines to climb, such as trellises or arbors.",
+        "Prune grapevines to control their growth and improve air circulation.",
+        "Water grapevines regularly, especially during dry periods.",
+        "Harvest grapes when they are plump, juicy, and have the desired sweetness.",
+        "Store harvested grapes in the refrigerator for freshness."
+      ],
+      "additionalTips": "Grapes are not only enjoyed fresh but are also used to make various products like wine and raisins."
+    }
+  },
+  {
+    "id": 25,
+    "plantName": "Mango",
+    "image": "https://media.istockphoto.com/id/186018991/photo/mango-on-a-white-background.jpg?s=612x612&w=0&k=20&c=wmj1JQKjI8GYShKsLtMkHbAPJ-GjyaVBnx-CAX_DDtM=",
+    "details": "Mangoes are tropical fruits known for their sweet and fragrant flesh...",
+    "growingConditions": "Mango trees thrive in tropical climates with well-drained soil and sunlight...",
+    "careTips": "Plant mango trees in a sunny location and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Mangifera indica",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tropical", "Sweet"],
+    "source": "https://example.com/mango-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant mango seeds or grafted saplings in well-draining soil.",
+        "Water mango trees regularly, especially during dry periods.",
+        "Fertilize mango trees with a balanced fertilizer during the growing season.",
+        "Prune mango trees to shape and control their size.",
+        "Harvest mangoes when they have developed their full size and color.",
+        "Store harvested mangoes at room temperature to ripen further."
+      ],
+      "additionalTips": "Mangoes are considered the 'king of fruits' and are enjoyed fresh or in various culinary dishes."
+    }
+  },
+  {
+    "id": 26,
+    "plantName": "Strawberry",
+    "image": "https://media.istockphoto.com/id/1412854156/photo/strawberries-isolated-strawberry-whole-and-a-half-on-white-background-strawberry-slice-with.jpg?s=612x612&w=0&k=20&c=sg8D6YofX0K9og_ugF4R50QrPAKQUvHn5vJGfr-7Zk4=",
+    "details": "Strawberries are small, red, and sweet fruits often used in desserts...",
+    "growingConditions": "Strawberries thrive in well-draining soil and prefer cool temperatures...",
+    "careTips": "Plant strawberries in a sunny location with good air circulation...",
+    "category": "Fruit",
+    "scientificName": "Fragaria × ananassa",
+    "difficultyLevel": "Easy",
+    "tags": ["Fruit", "Berry", "Sweet"],
+    "source": "https://example.com/strawberry-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant strawberry crowns or runners in well-draining soil enriched with organic matter.",
+        "Ensure strawberries receive at least 6-8 hours of sunlight daily.",
+        "Water strawberries regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around strawberry plants to suppress weeds and retain soil moisture.",
+        "Harvest strawberries when they are fully red and ripe, typically every 3-4 days.",
+        "Store harvested strawberries in the refrigerator for freshness."
+      ],
+      "additionalTips": "Strawberries are a versatile fruit used in various culinary creations, from jams to salads."
+    }
+  },
+  {
+    "id": 27,
+    "plantName": "Pineapple",
+    "image": "https://5.imimg.com/data5/PW/ND/MY-46595757/fresh-pineapple-281kg-29.png",
+    "details": "Pineapples are tropical fruits with a sweet and tangy taste...",
+    "growingConditions": "Pineapple plants thrive in tropical climates with warm temperatures...",
+    "careTips": "Plant pineapple crowns in well-draining soil, and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Ananas comosus",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tropical", "Tangy"],
+    "source": "https://example.com/pineapple-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant pineapple crowns in well-draining soil with good sunlight.",
+        "Water pineapple plants regularly, especially during dry periods.",
+        "Fertilize pineapple plants with a balanced fertilizer containing micronutrients.",
+        "Protect pineapple plants from strong winds and heavy rainfall.",
+        "Harvest pineapples when they develop a golden color and a sweet aroma.",
+        "Store harvested pineapples at room temperature for ripening."
+      ],
+      "additionalTips": "Pineapples are not only delicious but also rich in vitamins and enzymes."
+    }
+  },
+  {
+    "id": 28,
+    "plantName": "Blueberry",
+    "image": "https://img.freepik.com/free-vector/fresh-blueberries-with-water-drops-green-leaves-white-background-realistic-vector-illustration_1284-77363.jpg",
+    "details": "Blueberries are small, round, and sweet berries often praised for their health benefits...",
+    "growingConditions": "Blueberries prefer acidic, well-draining soil and cooler temperatures...",
+    "careTips": "Plant blueberries in acidic soil, and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Vaccinium corymbosum",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Berry", "Sweet"],
+    "source": "https://example.com/blueberry-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant blueberry bushes in acidic soil enriched with organic matter.",
+        "Mulch around blueberry plants to retain soil moisture and suppress weeds.",
+        "Water blueberries regularly, keeping the soil consistently moist.",
+        "Prune blueberry bushes to remove dead wood and stimulate new growth.",
+        "Harvest blueberries when they turn dark blue and easily come off the stem.",
+        "Store harvested blueberries in the refrigerator for freshness."
+      ],
+      "additionalTips": "Blueberries are known for their antioxidants and are a great addition to various dishes."
+    }
+  },
+  {
+    "id": 29,
+    "plantName": "Cherry",
+    "image": "https://static.libertyprim.com/files/familles/cerise-large.jpg?1569271737",
+    "details": "Cherries are small, red or yellow fruits with a sweet and tart flavor...",
+    "growingConditions": "Cherry trees thrive in temperate climates with well-draining soil...",
+    "careTips": "Plant cherry trees in well-draining soil, and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Prunus avium",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tree", "Sweet"],
+    "source": "https://example.com/cherry-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant cherry trees in well-draining soil with good exposure to sunlight.",
+        "Water cherry trees regularly, especially during dry periods.",
+        "Prune cherry trees to shape and remove diseased or dead branches.",
+        "Protect cherry trees from birds by using netting or other deterrents.",
+        "Harvest cherries when they are fully ripe and have a deep color.",
+        "Store harvested cherries in the refrigerator for freshness."
+      ],
+      "additionalTips": "Cherries are enjoyed fresh, in desserts, or as a topping for various dishes."
+    }
+  },
+  {
+    "id": 30,
+    "plantName": "Kiwi",
+    "image": "https://media.istockphoto.com/id/834807852/photo/whole-kiwi-fruit-and-half-kiwi-fruit-on-white.jpg?s=612x612&w=0&k=20&c=zliUVnZlYPcOxEDYef7PMmOEEODFr8FUkTYqqFVaRG8=",
+    "details": "Kiwi, also known as Chinese gooseberry, is a small, brown, and fuzzy fruit...",
+    "growingConditions": "Kiwi vines thrive in well-draining soil and require a sunny location...",
+    "careTips": "Plant kiwi vines in well-draining soil, and provide support for climbing...",
+    "category": "Fruit",
+    "scientificName": "Actinidia deliciosa",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Vine", "Tart"],
+    "source": "https://example.com/kiwi-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant kiwi vines in well-draining soil with a pH between 6.0 and 7.0.",
+        "Provide support for kiwi vines to climb, such as trellises or arbors.",
+        "Water kiwi plants regularly, especially during dry periods.",
+        "Fertilize kiwi plants with a balanced fertilizer during the growing season.",
+        "Harvest kiwis when they are fully ripened and have a slight yield to gentle pressure.",
+        "Store harvested kiwis in the refrigerator for freshness."
+      ],
+      "additionalTips": "Kiwi is rich in vitamin C and adds a unique flavor to fruit salads and desserts."
+    }
+  },
+  {
+    "id": 31,
+    "plantName": "Peach",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/kpedle80/fruit/x/r/j/250-un-branded-whole-original-imag3nyfzvqzgbmv.jpeg?q=20&crop=false",
+    "details": "Peaches are juicy fruits with a sweet and slightly fuzzy skin...",
+    "growingConditions": "Peach trees thrive in temperate climates with well-draining soil...",
+    "careTips": "Plant peach trees in a sunny location and provide regular pruning...",
+    "category": "Fruit",
+    "scientificName": "Prunus persica",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tree", "Juicy"],
+    "source": "https://example.com/peach-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant peach trees in well-draining soil with good sunlight exposure.",
+        "Water peach trees regularly, especially during dry spells.",
+        "Prune peach trees to shape and remove diseased or dead branches.",
+        "Thin out peach blossoms to improve fruit quality and prevent overcrowding.",
+        "Harvest peaches when they are fully ripe and have a vibrant color.",
+        "Store harvested peaches in the refrigerator for freshness."
+      ],
+      "additionalTips": "Peaches are delicious fresh, in desserts, or as part of various dishes."
+    }
+  },
+  {
+    "id": 32,
+    "plantName": "Apricot",
+    "image": "https://cdn.britannica.com/36/160636-050-B1DC5C0A/Laetrile-apricot-pits.jpg",
+    "details": "Apricots are small, golden fruits with a sweet and tangy flavor...",
+    "growingConditions": "Apricot trees thrive in temperate climates with well-draining soil...",
+    "careTips": "Plant apricot trees in full sunlight and provide well-draining soil...",
+    "category": "Fruit",
+    "scientificName": "Prunus armeniaca",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tree", "Tangy"],
+    "source": "https://example.com/apricot-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant apricot trees in well-draining soil with good sunlight exposure.",
+        "Water apricot trees regularly, especially during dry periods.",
+        "Prune apricot trees to shape and remove crowded or dead branches.",
+        "Protect apricots from late spring frosts, as they can damage blossoms.",
+        "Harvest apricots when they are fully ripe and have a rich color.",
+        "Store harvested apricots in the refrigerator for freshness."
+      ],
+      "additionalTips": "Apricots are versatile and can be enjoyed fresh, dried, or in various recipes."
+    }
+  },
+  {
+    "id": 33,
+    "plantName": "Plum",
+    "image": "https://9aoya9x5.cdn.imgeng.in/media/catalog/product/cache/3/image/1200x/040ec09b1e35df139433887a97daa66f/p/l/plum.jpg",
+    "details": "Plums are juicy fruits with a sweet and sometimes tart taste...",
+    "growingConditions": "Plum trees thrive in temperate climates with well-draining soil...",
+    "careTips": "Plant plum trees in a sunny location and provide regular pruning...",
+    "category": "Fruit",
+    "scientificName": "Prunus domestica",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tree", "Sweet"],
+    "source": "https://example.com/plum-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant plum trees in well-draining soil with good sunlight exposure.",
+        "Water plum trees regularly, especially during dry spells.",
+        "Prune plum trees to shape and remove diseased or dead branches.",
+        "Thin out plum blossoms to improve fruit quality and prevent overcrowding.",
+        "Harvest plums when they are fully ripe and have a vibrant color.",
+        "Store harvested plums in the refrigerator for freshness."
+      ],
+      "additionalTips": "Plums are delicious fresh, in jams, or as part of various dishes."
+    }
+  },
+  {
+    "id": 34,
+    "plantName": "Guava",
+    "image": "https://cdn.shopify.com/s/files/1/0082/6150/0991/files/Whole-and-cut-pink-guava-fruits_0c07bc86-c3b7-4eec-8e4e-a0d3abc3b846.jpg?v=1690451848",
+    "details": "Guavas are tropical fruits known for their fragrant aroma and sweet taste...",
+    "growingConditions": "Guava trees thrive in tropical climates with well-draining soil...",
+    "careTips": "Plant guava trees in full sunlight and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Psidium guajava",
+    "difficultyLevel": "Easy",
+    "tags": ["Fruit", "Tropical", "Sweet"],
+    "source": "https://example.com/guava-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant guava trees in well-draining soil with good sunlight exposure.",
+        "Water guava trees regularly, especially during dry periods.",
+        "Apply organic mulch to conserve soil moisture and suppress weeds.",
+        "Prune guava trees to shape and remove crowded or diseased branches.",
+        "Harvest guavas when they are fully ripe and have a pleasant fragrance.",
+        "Store harvested guavas in the refrigerator for freshness."
+      ],
+      "additionalTips": "Guavas are rich in Vitamin C and can be enjoyed fresh, juiced, or in jams."
+    }
+  },
+  {
+    "id": 35,
+    "plantName": "Lemon",
+    "image": "https://img.freepik.com/premium-vector/lemon-with-leaf-isolated-white-background_961004-665.jpg",
+    "details": "Lemons are citrus fruits known for their sour and tangy taste...",
+    "growingConditions": "Lemon trees thrive in subtropical to tropical climates with well-draining soil...",
+    "careTips": "Plant lemon trees in full sunlight and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Citrus limon",
+    "difficultyLevel": "Easy",
+    "tags": ["Fruit", "Citrus", "Sour"],
+    "source": "https://example.com/lemon-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant lemon trees in well-draining soil with good sunlight exposure.",
+        "Water lemon trees regularly, especially during dry spells.",
+        "Fertilize with a balanced citrus fertilizer during the growing season.",
+        "Prune lemon trees to shape and remove dead or crowded branches.",
+        "Harvest lemons when they reach full size and have a bright yellow color.",
+        "Store harvested lemons in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Lemons add zest to culinary dishes and are rich in Vitamin C."
+    }
+  },
+  {
+    "id": 36,
+    "plantName": "Litchi",
+    "image": "https://5.imimg.com/data5/IP/BO/MY-40565349/litchi-fruit.jpg",
+    "details": "Litchis are tropical fruits with a sweet and fragrant taste...",
+    "growingConditions": "Litchi trees thrive in tropical to subtropical climates with well-draining soil...",
+    "careTips": "Plant litchi trees in a location with good sunlight and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Litchi chinensis",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tropical", "Sweet"],
+    "source": "https://example.com/litchi-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant litchi trees in well-draining soil with good sunlight exposure.",
+        "Water litchi trees regularly, especially during dry periods.",
+        "Mulch around the base of litchi trees to conserve soil moisture.",
+        "Prune litchi trees to shape and remove crowded or diseased branches.",
+        "Harvest litchis when they are fully ripe and have a vibrant color.",
+        "Store harvested litchis in the refrigerator for freshness."
+      ],
+      "additionalTips": "Litchis are enjoyed fresh, in desserts, or as part of various dishes."
+    }
+  },
+  {
+    "id": 37,
+    "plantName": "Miracle Fruit",
+    "image": "https://static.wixstatic.com/media/9c3986_709653a72b454171a4e5cc5ebc309f8a~mv2.jpg/v1/crop/x_38,y_181,w_884,h_731/fill/w_640,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/shutterstock_707929870_960x960.jpg",
+    "details": "Miracle fruits are small berries known for their unique ability to alter taste perception...",
+    "growingConditions": "Miracle fruit plants thrive in tropical climates with well-draining soil...",
+    "careTips": "Plant miracle fruit plants in filtered sunlight and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Synsepalum dulcificum",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Berries", "Taste-altering"],
+    "source": "https://example.com/miracle-fruit-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant miracle fruit plants in well-draining soil with good sunlight exposure.",
+        "Water miracle fruit plants consistently to maintain soil moisture.",
+        "Protect miracle fruit plants from frost, as they are sensitive to low temperatures.",
+        "Harvest miracle fruits when they are fully ripe and have a red color.",
+        "Experiment with taste perception by consuming sour foods after eating miracle fruits.",
+        "Store harvested miracle fruits in the refrigerator for freshness."
+      ],
+      "additionalTips": "Miracle fruits are known for their ability to make sour foods taste sweet."
+    }
+  },
+  {
+    "id": 38,
+    "plantName": "Mangosteen",
+    "image": "https://5.imimg.com/data5/TJ/CG/MY-27996008/fresh-mangosteen.jpg",
+    "details": "Mangosteens are tropical fruits with a sweet and tangy flavor...",
+    "growingConditions": "Mangosteen trees thrive in tropical climates with well-draining soil...",
+    "careTips": "Plant mangosteen trees in filtered sunlight and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Garcinia mangostana",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fruit", "Tropical", "Tangy"],
+    "source": "https://example.com/mangosteen-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant mangosteen trees in well-draining soil with good sunlight exposure.",
+        "Water mangosteen trees consistently to maintain soil moisture.",
+        "Prune mangosteen trees to shape and remove crowded or diseased branches.",
+        "Protect mangosteen trees from extreme temperatures and strong winds.",
+        "Harvest mangosteens when they are fully ripe and have a deep purple color.",
+        "Store harvested mangosteens in the refrigerator for freshness."
+      ],
+      "additionalTips": "Mangosteens are often referred to as the 'queen of fruits' for their exquisite taste."
+    }
+  },
+  {
+    "id": 39,
+    "plantName": "Nance",
+    "image": "https://specialtyproduce.com/sppics/8937.png",
+    "details": "Nances are small, yellow fruits with a sweet and tangy taste...",
+    "growingConditions": "Nance plants thrive in tropical climates with well-draining soil...",
+    "careTips": "Plant nance plants in full sunlight and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Byrsonima crassifolia",
+    "difficultyLevel": "Easy",
+    "tags": ["Fruit", "Tropical", "Tangy"],
+    "source": "https://example.com/nance-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant nance plants in well-draining soil with good sunlight exposure.",
+        "Water nance plants regularly, especially during dry periods.",
+        "Apply a balanced fertilizer during the growing season.",
+        "Prune nance plants to shape and remove crowded or diseased branches.",
+        "Harvest nances when they are fully ripe and have a vibrant yellow color.",
+        "Store harvested nances in the refrigerator for freshness."
+      ],
+      "additionalTips": "Nances are used in various culinary applications and beverages."
+    }
+  },
+  {
+    "id": 40,
+    "plantName": "Satsuma",
+    "image": "https://www.plantingtree.com/cdn/shop/products/9451911_600x600.png?v=1614203744",
+    "details": "Satsumas are citrus fruits known for their sweet and easy-to-peel characteristics...",
+    "growingConditions": "Satsuma trees thrive in subtropical to temperate climates with well-draining soil...",
+    "careTips": "Plant satsuma trees in full sunlight and provide regular watering...",
+    "category": "Fruit",
+    "scientificName": "Citrus unshiu",
+    "difficultyLevel": "Easy",
+    "tags": ["Fruit", "Citrus", "Easy-peel"],
+    "source": "https://example.com/satsuma-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant satsuma trees in well-draining soil with good sunlight exposure.",
+        "Water satsuma trees consistently to maintain soil moisture.",
+        "Fertilize with a balanced citrus fertilizer during the growing season.",
+        "Prune satsuma trees to shape and remove dead or crowded branches.",
+        "Harvest satsumas when they are fully ripe and have a bright orange color.",
+        "Store harvested satsumas in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Satsumas are popular for their sweetness and make a refreshing snack."
+    }
+  },
+  {
+    "id": 41,
+    "plantName": "Rose",
+    "image": "https://t4.ftcdn.net/jpg/02/45/03/61/360_F_245036112_Lf5C4B2zfWbVGoF1rHAj7IFdLFiSXDQj.jpg",
+    "details": "Roses are classic flowers with a wide range of colors and fragrances...",
+    "growingConditions": "Rose plants thrive in well-draining soil with good sunlight exposure...",
+    "careTips": "Plant roses in an area with good air circulation and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Rosa",
+    "difficultyLevel": "Easy",
+    "tags": ["Flower", "Rose", "Fragrant"],
+    "source": "https://example.com/rose-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant roses in well-draining soil enriched with organic matter.",
+        "Water roses regularly, especially during dry periods.",
+        "Apply a balanced fertilizer during the growing season.",
+        "Prune roses to shape and remove dead or diseased branches.",
+        "Mulch around the base of rose plants to conserve soil moisture.",
+        "Harvest roses by cutting flowers early in the morning for the best fragrance.",
+        "Store harvested roses in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Roses are often used in bouquets, arrangements, and garden landscapes."
+    }
+  },
+  {
+    "id": 32,
+    "plantName": "Lotus",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/k37mg7k0/artificial-flower/d/s/g/artificial-lotus-aakriti-original-imafme4jd4e8jfwd.jpeg?q=90&crop=false",
+    "details": "Lotuses are aquatic flowers with large, vibrant blooms...",
+    "growingConditions": "Lotus plants thrive in shallow, still water with full sunlight exposure...",
+    "careTips": "Plant lotus tubers in containers or directly in shallow water...",
+    "category": "Flower",
+    "scientificName": "Nelumbo nucifera",
+    "difficultyLevel": "Moderate",
+    "tags": ["Flower", "Aquatic", "Elegant"],
+    "source": "https://example.com/lotus-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant lotus tubers in containers or directly in shallow water.",
+        "Provide full sunlight for at least six hours a day.",
+        "Keep the water level consistent, especially during the growing season.",
+        "Fertilize lotus plants with a balanced fertilizer designed for aquatic plants.",
+        "Prune away dead or decaying leaves to maintain plant health.",
+        "Harvest lotus flowers when they are fully open for floral arrangements.",
+        "Store harvested lotus flowers in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Lotus flowers are revered in many cultures for their symbolic meanings."
+    }
+  },
+  {
+    "id": 43,
+    "plantName": "Jasmine",
+    "image": "https://cdn.britannica.com/56/197956-050-5062911A/Arabian-jasmine.jpg",
+    "details": "Jasmines are fragrant flowers commonly used in perfumes and teas...",
+    "growingConditions": "Jasmine plants thrive in well-draining soil with good sunlight exposure...",
+    "careTips": "Plant jasmine in a sunny location and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Jasminum",
+    "difficultyLevel": "Easy",
+    "tags": ["Flower", "Fragrant", "Tea"],
+    "source": "https://example.com/jasmine-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant jasmine in well-draining soil enriched with organic matter.",
+        "Water jasmine regularly, especially during dry periods.",
+        "Prune jasmine to shape and remove dead or crowded branches.",
+        "Provide support for climbing jasmine varieties.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Harvest jasmine flowers early in the morning for the best fragrance.",
+        "Store harvested jasmine flowers in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Jasmine flowers are popular for their sweet fragrance and cultural significance."
+    }
+  },
+  {
+    "id": 44,
+    "plantName": "Sunflower",
+    "image": "https://media.istockphoto.com/id/174648035/photo/sunflower-isolated.webp?b=1&s=612x612&w=0&k=20&c=qRESNdJUPLrNtuJ7f0lTOU7cuoVAOBDEXbgqKSvJVZw=",
+    "details": "Sunflowers are vibrant flowers known for their large and distinct blooms...",
+    "growingConditions": "Sunflower plants thrive in well-draining soil with full sunlight exposure...",
+    "careTips": "Plant sunflowers in a location with good air circulation and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Helianthus annuus",
+    "difficultyLevel": "Easy",
+    "tags": ["Flower", "Bright", "Vibrant"],
+    "source": "https://example.com/sunflower-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant sunflower seeds in well-draining soil with full sunlight exposure.",
+        "Water sunflowers consistently, especially during dry periods.",
+        "Provide support for tall sunflower varieties.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Prune away dead or decaying leaves to maintain plant health.",
+        "Harvest sunflowers when the back of the flower head turns yellow.",
+        "Store harvested sunflowers in a cool, dry place for freshness."
+      ],
+      "additionalTips": "Sunflowers are not only beautiful but also attract pollinators to the garden."
+    }
+  },
+  {
+    "id": 45,
+    "plantName": "Daisy",
+    "image": "https://images.unsplash.com/photo-1592339078319-1f8cc9d67888?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFpc3klMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D",
+    "details": "Daisies are charming flowers with a simple yet elegant appearance...",
+    "growingConditions": "Daisy plants thrive in well-draining soil with good sunlight exposure...",
+    "careTips": "Plant daisies in groups for a stunning display and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Bellis perennis",
+    "difficultyLevel": "Easy",
+    "tags": ["Flower", "Charming", "Elegant"],
+    "source": "https://example.com/daisy-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant daisy seeds in well-draining soil enriched with organic matter.",
+        "Water daisies regularly, especially during dry periods.",
+        "Deadhead spent flowers to encourage continuous blooming.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Prune away dead or decaying leaves to maintain plant health.",
+        "Harvest daisies by cutting flowers early in the morning for arrangements.",
+        "Store harvested daisies in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Daisies are versatile flowers that complement various garden styles."
+    }
+  },
+  {
+    "id": 46,
+    "plantName": "Tulip",
+    "image": "https://images.unsplash.com/photo-1520763185298-1b434c919102?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHVsaXB8ZW58MHx8MHx8fDA%3D",
+    "details": "Tulips are iconic spring-blooming flowers known for their vibrant colors...",
+    "growingConditions": "Tulip bulbs thrive in well-draining soil with full sunlight exposure...",
+    "careTips": "Plant tulip bulbs in the fall, and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Tulipa",
+    "difficultyLevel": "Moderate",
+    "tags": ["Flower", "Spring-blooming", "Colorful"],
+    "source": "https://example.com/tulip-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant tulip bulbs in well-draining soil with good sunlight exposure.",
+        "Water tulips consistently, especially during dry periods.",
+        "Apply a balanced fertilizer during the growing season.",
+        "Allow tulip foliage to yellow and wither before removing.",
+        "Protect tulip bulbs from excessive moisture during dormant periods.",
+        "Harvest tulips by cutting flowers when they are fully open.",
+        "Store harvested tulips in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Tulips are often associated with the arrival of spring and are a symbol of renewal."
+    }
+  },
+  {
+    "id": 47,
+    "plantName": "Magnolia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Magnolia_sieboldii_flower_1.jpg",
+    "details": "Magnolias are elegant flowering trees or shrubs known for their large, fragrant blooms...",
+    "growingConditions": "Magnolia plants thrive in well-draining soil with partial to full sunlight exposure...",
+    "careTips": "Plant magnolias in a location protected from strong winds and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Magnolia",
+    "difficultyLevel": "Moderate",
+    "tags": ["Flower", "Tree", "Fragrant"],
+    "source": "https://example.com/magnolia-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant magnolias in well-draining soil enriched with organic matter.",
+        "Water magnolias consistently, especially during dry periods.",
+        "Mulch around the base of magnolia plants to conserve soil moisture.",
+        "Prune away dead or diseased branches to maintain plant health.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Harvest magnolia flowers by cutting branches when blooms are fully open.",
+        "Store harvested magnolias in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Magnolias are popular for their stunning blooms and are often used in landscaping."
+    }
+  },
+  {
+    "id": 48,
+    "plantName": "Lavender",
+    "image": "https://m.media-amazon.com/images/I/61WVZ9piphL._AC_UF1000,1000_QL80_.jpg",
+    "details": "Lavenders are aromatic herbaceous plants known for their fragrant flowers and essential oils...",
+    "growingConditions": "Lavender plants thrive in well-draining, sandy soil with full sunlight exposure...",
+    "careTips": "Plant lavender in a location with good air circulation and provide well-draining soil...",
+    "category": "Flower",
+    "scientificName": "Lavandula",
+    "difficultyLevel": "Easy",
+    "tags": ["Flower", "Aromatic", "Herb"],
+    "source": "https://example.com/lavender-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant lavender in well-draining, sandy soil with good sunlight exposure.",
+        "Water lavender sparingly, allowing the soil to dry out between waterings.",
+        "Prune lavender regularly to maintain shape and encourage bushiness.",
+        "Harvest lavender flowers just before they are fully open for the best fragrance.",
+        "Dry harvested lavender flowers in a cool, dark place before storage.",
+        "Store dried lavender in airtight containers away from direct sunlight."
+      ],
+      "additionalTips": "Lavender is widely used in aromatherapy, culinary applications, and as ornamental plants."
+    }
+  },
+  {
+    "id": 49,
+    "plantName": "Balsam",
+    "image": "https://www.ugaoo.com/cdn/shop/articles/balsam.jpg?v=1687413118",
+    "details": "Balsams are colorful annual flowers known for their vibrant, fragrant blooms...",
+    "growingConditions": "Balsam plants thrive in well-draining soil with partial sunlight exposure...",
+    "careTips": "Plant balsams in a location protected from harsh afternoon sun and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Impatiens balsamina",
+    "difficultyLevel": "Easy",
+    "tags": ["Flower", "Annual", "Colorful"],
+    "source": "https://example.com/balsam-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant balsam seeds in well-draining soil enriched with organic matter.",
+        "Water balsams consistently, keeping the soil consistently moist.",
+        "Deadhead spent flowers to encourage continuous blooming.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Prune away dead or decaying branches to maintain plant health.",
+        "Harvest balsam flowers by cutting stems when blooms are fully open.",
+        "Store harvested balsams in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Balsams are popular for their use in garden beds, containers, and hanging baskets."
+    }
+  },
+  {
+    "id": 50,
+    "plantName": "Flax",
+    "image": "https://media.istockphoto.com/id/871479072/photo/flax-blue-flowers.jpg?s=612x612&w=0&k=20&c=mnqYdvK6mbhCerBJ-ArqrdPAy0e05G96_AQMkWzGwk4=",
+    "details": "Flax plants are cultivated for both their fibers and seeds, and they produce delicate blue flowers...",
+    "growingConditions": "Flax plants thrive in well-draining soil with full sunlight exposure...",
+    "careTips": "Plant flax in a location with good air circulation and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Linum usitatissimum",
+    "difficultyLevel": "Moderate",
+    "tags": ["Flower", "Fiber", "Seed"],
+    "source": "https://example.com/flax-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant flax seeds in well-draining soil with full sunlight exposure.",
+        "Water flax consistently, especially during dry periods.",
+        "Deadhead spent flowers to encourage continuous blooming.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Harvest flax seeds when they turn brown and the capsules begin to crack.",
+        "Dry harvested flax seeds thoroughly before storage.",
+        "Store dried flax seeds in a cool, dry place away from direct sunlight."
+      ],
+      "additionalTips": "Flax is valued for its fibers used in textile production and its nutritious seeds."
+    }
+  },
+  {
+    "id": 51,
+    "plantName": "Butterfly Pea",
+    "image": "https://ilovethaicooking.files.wordpress.com/2012/03/img_0257_2.jpg",
+    "details": "Butterfly Pea, also known as Clitoria ternatea, is a vine with unique vibrant blue flowers...",
+    "growingConditions": "Butterfly Pea plants thrive in well-draining soil with full sunlight exposure...",
+    "careTips": "Plant butterfly pea in a location with support for climbing vines and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Clitoria ternatea",
+    "difficultyLevel": "Easy",
+    "tags": ["Flower", "Vine", "Blue Flowers"],
+    "source": "https://example.com/butterfly-pea-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant butterfly pea seeds or seedlings in well-draining soil with full sunlight exposure.",
+        "Provide support for climbing vines, such as trellises or arbors.",
+        "Water butterfly pea consistently, especially during dry periods.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Harvest butterfly pea flowers when they are fully open for various culinary uses.",
+        "Prune away dead or unwanted growth to maintain plant shape.",
+        "Store harvested butterfly pea flowers in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Butterfly pea flowers are not only ornamental but are also used for their natural blue coloring in culinary applications."
+    }
+  },
+  {
+    "id": 52,
+    "plantName": "Crossandra",
+    "image": "https://exoticflora.in/cdn/shop/products/crossandra.jpg?v=1578916199",
+    "details": "Crossandra, also known as Aboli, is a flowering plant prized for its colorful blooms...",
+    "growingConditions": "Crossandra plants thrive in well-draining soil with partial to full sunlight exposure...",
+    "careTips": "Plant crossandra in a location protected from harsh afternoon sun and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Crossandra infundibuliformis",
+    "difficultyLevel": "Easy",
+    "tags": ["Flower", "Colorful", "Shrub"],
+    "source": "https://example.com/crossandra-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant crossandra in well-draining soil enriched with organic matter.",
+        "Water crossandra consistently, keeping the soil consistently moist.",
+        "Deadhead spent flowers to encourage continuous blooming.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Prune away dead or decaying branches to maintain plant health.",
+        "Harvest crossandra flowers by cutting stems when blooms are fully open.",
+        "Store harvested crossandras in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Crossandra is popular for its use in gardens, floral arrangements, and as a decorative houseplant."
+    }
+  },
+  {
+    "id": 53,
+    "plantName": "Golden Shower",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cassia_fistula_%28Golden_rain_tree%29_flowers.jpg/800px-Cassia_fistula_%28Golden_rain_tree%29_flowers.jpg",
+    "details": "Golden Shower, also known as Amaltas, is a tree with striking clusters of yellow flowers...",
+    "growingConditions": "Golden Shower trees thrive in well-draining soil with full sunlight exposure...",
+    "careTips": "Plant golden shower in a location with sufficient space for its growth and provide regular watering...",
+    "category": "Flower",
+    "scientificName": "Cassia fistula",
+    "difficultyLevel": "Moderate",
+    "tags": ["Flower", "Tree", "Yellow"],
+    "source": "https://example.com/golden-shower-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant golden shower trees in well-draining soil enriched with organic matter.",
+        "Water golden shower consistently, especially during dry periods.",
+        "Prune away dead or diseased branches to maintain tree health.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Harvest golden shower flowers in clusters when they are fully open.",
+        "Store harvested golden shower flowers in a cool, dark place for freshness."
+      ],
+      "additionalTips": "Golden shower trees are admired for their stunning floral displays and are often planted for ornamental purposes."
+    }
+  },
+  {
+    "id": 54,
+    "plantName": "Forest Ghost",
+    "image": "https://live.staticflickr.com/2487/3896584048_54f74ea26a_z.jpg",
+    "details": "Forest Ghost is a unique and exotic flower with distinctive characteristics...",
+    "growingConditions": "Provide well-drained soil and partial shade for Forest Ghost...",
+    "careTips": "Water consistently, avoiding waterlogging. Prune to maintain a desired shape...",
+    "category": "Flower",
+    "scientificName": "Scientific Name for Forest Ghost",
+    "difficultyLevel": "Moderate",
+    "tags": ["Exotic", "Shade-loving", "Unique"],
+    "source": "https://example.com/forest-ghost-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant Forest Ghost seeds or seedlings in well-drained soil.",
+        "Place the plant in an area with partial shade to protect it from harsh sunlight.",
+        "Water consistently, ensuring the soil remains moist but not waterlogged.",
+        "Prune the plant regularly to maintain its unique shape and encourage healthy growth.",
+        "Fertilize with a balanced flower fertilizer during the growing season.",
+        "Protect from pests and diseases by monitoring the plant regularly.",
+        "Harvest any faded or dead blooms to encourage continuous flowering.",
+        "Enjoy the unique and exotic beauty of Forest Ghost in your garden."
+      ],
+      "additionalTips": "Forest Ghost is known for its mysterious and captivating appearance, making it a favorite among flower enthusiasts."
+    }
+  },
+  {
+    "id": 55,
+    "plantName": "Yellow Marigold",
+    "image": "https://www.skorganicfarms.com/cdn/shop/products/FrenchMarigoldYellow_700x.jpg?v=1648025986",
+    "details": "Yellow Marigold is a vibrant and cheerful flower that adds color to gardens...",
+    "growingConditions": "Thrives in well-drained soil and full sunlight...",
+    "careTips": "Water moderately, allowing the soil to dry between watering. Deadhead spent blooms...",
+    "category": "Flower",
+    "scientificName": "Scientific Name for Yellow Marigold",
+    "difficultyLevel": "Easy",
+    "tags": ["Vibrant", "Cheerful", "Sun-loving"],
+    "source": "https://example.com/yellow-marigold-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant Yellow Marigold seeds or seedlings in well-drained soil.",
+        "Ensure the plant receives full sunlight for at least 6 hours a day.",
+        "Water moderately, allowing the soil to dry between watering sessions.",
+        "Deadhead spent blooms regularly to promote continuous flowering.",
+        "Fertilize with a balanced flower fertilizer during the growing season.",
+        "Protect from pests like aphids by using natural repellents or insecticidal soap.",
+        "Harvest flowers in the morning when the blooms are fully open.",
+        "Use Yellow Marigold flowers for decorative purposes or as companion plants in vegetable gardens."
+      ],
+      "additionalTips": "Yellow Marigold is not only a beautiful ornamental flower but also serves as a natural pest repellent in gardens."
+    }
+  },
+  {
+    "id": 56,
+    "plantName": "Pot Marigold (Calendula)",
+    "image": "https://gardenerspath.com/wp-content/uploads/2020/09/How-to-Grow-Pot-Marigold-FB.jpg",
+    "details": "Pot Marigold, also known as Calendula, is a versatile and edible flower with medicinal properties...",
+    "growingConditions": "Prefers well-drained soil and full to partial sunlight...",
+    "careTips": "Water regularly, keeping the soil consistently moist. Deadhead spent blooms for prolonged flowering...",
+    "category": "Flower",
+    "scientificName": "Calendula officinalis",
+    "difficultyLevel": "Easy",
+    "tags": ["Versatile", "Edible", "Medicinal"],
+    "source": "https://example.com/pot-marigold-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant Pot Marigold seeds or seedlings in well-drained soil with good fertility.",
+        "Ensure the plant receives full to partial sunlight for optimal growth.",
+        "Water regularly, aiming to keep the soil consistently moist.",
+        "Deadhead spent blooms to encourage continuous flowering and prevent self-seeding.",
+        "Fertilize with a balanced flower fertilizer during the growing season.",
+        "Harvest Pot Marigold flowers in the morning when the essential oils are most concentrated.",
+        "Use harvested flowers in culinary dishes, teas, or as a medicinal herb.",
+        "Enjoy the vibrant colors and various uses of Pot Marigold in your garden."
+      ],
+      "additionalTips": "Pot Marigold is not only a beautiful addition to gardens but also holds culinary and medicinal value. It's known for its soothing properties."
+    }
+  },
+  {
+    "id": 57,
+    "plantName": "Star Jasmine",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/4bfc477a-a136-4a24-9285-f60624922d61-5b9a8f7.jpg?quality=90&resize=940,627",
+    "details": "Star Jasmine, also known as कुंद पुष्प in Hindi, is a fragrant and evergreen flowering plant...",
+    "growingConditions": "Thrives in well-drained soil and prefers partial to full sunlight...",
+    "careTips": "Water regularly, allowing the soil to dry slightly between watering sessions. Prune after flowering...",
+    "category": "Flower",
+    "scientificName": "Trachelospermum asiaticum",
+    "difficultyLevel": "Moderate",
+    "tags": ["Fragrant", "Evergreen", "Climber"],
+    "source": "https://example.com/star-jasmine-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant Star Jasmine in well-drained soil with good organic matter.",
+        "Ensure the plant receives partial to full sunlight for optimal growth.",
+        "Water regularly, allowing the soil to dry slightly between watering sessions.",
+        "Prune after flowering to maintain shape and encourage bushiness.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Train the plant on a support structure for climbing effect.",
+        "Enjoy the fragrant blooms of Star Jasmine in your garden."
+      ],
+      "additionalTips": "Star Jasmine is admired for its fragrant white flowers and is often used as a climber on trellises or arbors."
+    }
+  },
+  {
+    "id": 58,
+    "plantName": "Night Blooming Jasmine",
+    "image": "https://www.thespruce.com/thmb/H2FIRmUWRkOEY_WBZwL3nb-yWoo=/1410x0/filters:no_upscale():max_bytes(150000):strip_icc()/night-blooming-jasmine-growing-guide-5210438-hero-b9483a0b63604ac7ba752ff8c6b8c480.JPG",
+    "details": "Night Blooming Jasmine, known as रात की रानी in Hindi, is a fragrant and nocturnal flowering shrub...",
+    "growingConditions": "Thrives in well-drained soil and prefers full sunlight...",
+    "careTips": "Water consistently, and avoid waterlogging. Prune to maintain a desired shape...",
+    "category": "Flower",
+    "scientificName": "Cestrum nocturnum",
+    "difficultyLevel": "Easy",
+    "tags": ["Fragrant", "Nocturnal", "Shrub"],
+    "source": "https://example.com/night-blooming-jasmine-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant Night Blooming Jasmine in well-drained soil with good drainage.",
+        "Ensure the plant receives full sunlight for optimal flowering.",
+        "Water consistently, avoiding waterlogging that may lead to root rot.",
+        "Prune the plant to maintain a desired shape and encourage bushiness.",
+        "Fertilize with a balanced fertilizer during the growing season.",
+        "Enjoy the intoxicating fragrance of Night Blooming Jasmine in the evening.",
+        "Consider planting it near windows or outdoor sitting areas to fully experience its fragrance."
+      ],
+      "additionalTips": "Night Blooming Jasmine is renowned for its captivating fragrance that intensifies during the evening and night."
+    }
+  },
+  {
+    "id": 59,
+    "plantName": "Primrose",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Prole%C4%87no_cve%C4%87e_3.JPG/1200px-Prole%C4%87no_cve%C4%87e_3.JPG",
+    "details": "Primrose, known as बसन्ती गुलाब in Hindi, is a delightful and early-blooming perennial flower...",
+    "growingConditions": "Thrives in well-drained soil and prefers partial shade...",
+    "careTips": "Water regularly to keep the soil consistently moist. Deadhead spent blooms...",
+    "category": "Flower",
+    "scientificName": "Primula",
+    "difficultyLevel": "Easy",
+    "tags": ["Delightful", "Perennial", "Early-blooming"],
+    "source": "https://example.com/primrose-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant Primrose in well-drained soil enriched with organic matter.",
+        "Ensure the plant receives partial shade, especially during the afternoon.",
+        "Water regularly to keep the soil consistently moist but not waterlogged.",
+        "Deadhead spent blooms to promote continuous flowering.",
+        "Fertilize with a balanced flower fertilizer during the growing season.",
+        "Protect from pests and diseases by monitoring the plant regularly.",
+        "Enjoy the early-blooming charm of Primrose in your garden."
+      ],
+      "additionalTips": "Primrose is valued for its early-blooming nature, bringing cheerful colors to gardens when other flowers are yet to bloom."
+    }
+  },
+  {
+    "id": 60,
+    "plantName": "Crape Jasmine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Crape_Jasmine.jpg",
+    "details": "Crape Jasmine is a beautiful and low-maintenance flowering shrub with white blooms...",
+    "growingConditions": "Thrives in well-drained soil and prefers full sunlight...",
+    "careTips": "Water moderately, allowing the soil to dry between watering. Prune to maintain shape...",
+    "category": "Flower",
+    "scientificName": "Tabernaemontana divaricata",
+    "difficultyLevel": "Easy",
+    "tags": ["Low-maintenance", "Shrub", "White Blooms"],
+    "source": "https://example.com/crape-jasmine-guide",
+    "growingGuide": {
+      "steps": [
+        "Plant Crape Jasmine in well-drained soil with good drainage.",
+        "Ensure the plant receives full sunlight for optimal growth and blooming.",
+        "Water moderately, allowing the soil to dry between watering sessions.",
+        "Prune the plant to maintain a desired shape and encourage bushiness.",
+        "Fertilize with a balanced flower fertilizer during the growing season.",
+        "Protect from pests and diseases by monitoring the plant regularly.",
+        "Enjoy the white blooms of Crape Jasmine, which add elegance to gardens and landscapes."
+      ],
+      "additionalTips": "Crape Jasmine is admired for its white, star-shaped blooms and is often used in landscaping to create a visually appealing environment."
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

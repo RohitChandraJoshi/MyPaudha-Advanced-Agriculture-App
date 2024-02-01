@@ -1,0 +1,51 @@
+<!-- activity_profile.xml -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background28"
+    android:padding="16dp">
+    <TextView
+        android:id="@+id/txtwelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="user"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#FFF"
+        android:layout_marginTop="20dp"/>
+
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="195dp"
+        android:layout_height="175dp"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="70dp"
+
+        android:src="@drawable/user1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnLogout"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/white"
+        app:backgroundTint="@color/colorPrimary"
+        android:layout_below="@id/logoImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:gravity="center"
+        android:onClick="btn_logout"
+        android:text="Logout"
+        android:textSize="16sp" />
+
+
+</RelativeLayout>

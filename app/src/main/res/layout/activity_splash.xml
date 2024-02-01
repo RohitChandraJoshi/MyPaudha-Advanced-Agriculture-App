@@ -1,0 +1,36 @@
+<!-- activity_splash.xml -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Gradient background -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background30">
+
+        <ImageView
+            android:id="@+id/logoImageView"
+            android:layout_width="294dp"
+            android:layout_height="217dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/logo2"
+            android:visibility="invisible" />
+
+
+
+            android:src="@drawable/applogotestpng"
+             />
+    </RelativeLayout>
+
+    <!-- Copyright TextView at the bottom of the screen -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="© 2024 Rohit Chandra Joshi. All rights reserved."
+        android:textColor="#CCCCCC" />
+
+</FrameLayout>
