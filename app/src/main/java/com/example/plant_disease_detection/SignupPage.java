@@ -5,6 +5,7 @@ package com.example.plant_disease_detection;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.os.Bundle;
 
 import android.os.AsyncTask;
@@ -33,7 +34,13 @@ public class SignupPage extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup_page);
-
+        int nightModeFlags = getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK;
+        boolean isDarkMode = nightModeFlags == Configuration.UI_MODE_NIGHT_YES;
+        if (isDarkMode) {
+            findViewById(R.id.layout).setBackgroundResource(R.drawable.frontscreen);
+        } else {
+            findViewById(R.id.layout).setBackgroundResource(R.drawable.walkthrough);
+        }
         etUsername = findViewById(R.id.etUsername);
         etEmail = findViewById(R.id.etEmail);
         etPassword = findViewById(R.id.etPassword);

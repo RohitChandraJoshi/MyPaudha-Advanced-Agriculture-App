@@ -3,7 +3,6 @@ package com.example.plant_disease_detection;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.content.ContextCompat;
 
 import android.Manifest;
 import android.content.Intent;
@@ -19,7 +18,6 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.example.plant_disease_detection.ml.FlowerDetection;
 
@@ -30,7 +28,7 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 
-public class Soil_Detection_Activity extends AppCompatActivity {
+public class Flower_Detection_Activity extends AppCompatActivity {
 
     TextView result, result2, classified, clickHere;
     ImageView imageView;
@@ -41,7 +39,7 @@ public class Soil_Detection_Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_soil_detection);
+        setContentView(R.layout.activity_flower_detection);
 
         result2 = findViewById(R.id.result2);
         result = findViewById(R.id.result);

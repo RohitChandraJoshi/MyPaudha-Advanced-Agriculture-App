@@ -38,7 +38,6 @@
             android:layout_marginTop="250dp"
             android:gravity="center"
             android:text="@string/default_plant_name1"
-            android:textColor="#333"
             android:textSize="16sp"
             android:textStyle="bold" />
 

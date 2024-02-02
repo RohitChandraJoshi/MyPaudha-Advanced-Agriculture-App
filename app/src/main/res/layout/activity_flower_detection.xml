@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".nutrient_deficiency_Activity"
+    tools:context=".Flower_Detection_Activity"
     android:background="@drawable/gradient_background">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -106,14 +106,14 @@
 
         <TextView
             android:id="@+id/classified"
-            android:layout_width="378dp"
+            android:layout_width="249dp"
             android:layout_height="41dp"
             android:layout_alignParentRight="true"
             android:layout_alignParentBottom="true"
-            android:layout_marginRight="15dp"
+            android:layout_marginRight="80dp"
             android:layout_marginBottom="396dp"
             android:gravity="center"
-            android:text="Detected Medicinal Plant is :"
+            android:text="Detected Flower is :"
             android:textColor="@color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -168,7 +168,7 @@
             android:layout_marginRight="0dp"
             android:layout_marginBottom="249dp"
             android:gravity="center"
-            android:text="Click on 'Benefits of' to get more info"
+            android:text="Click on 'Get more info about' to get more info"
             android:textColor="@color/white"
             android:textSize="18sp"
             android:textStyle="bold" />

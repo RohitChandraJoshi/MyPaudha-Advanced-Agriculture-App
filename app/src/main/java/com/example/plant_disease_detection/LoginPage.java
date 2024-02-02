@@ -2,6 +2,7 @@ package com.example.plant_disease_detection;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
@@ -33,7 +34,13 @@ public class LoginPage extends AppCompatActivity {
         etLoginPassword = findViewById(R.id.etLoginPassword);
         btnLogin = findViewById(R.id.btnLogin);
         loadingProgressBar = findViewById(R.id.loadingProgressBar);
-
+        int nightModeFlags = getResources().getConfiguration().uiMode & Configuration.UI_MODE_NIGHT_MASK;
+        boolean isDarkMode = nightModeFlags == Configuration.UI_MODE_NIGHT_YES;
+        if (isDarkMode) {
+            findViewById(R.id.layout).setBackgroundResource(R.drawable.frontscreen);
+        } else {
+            findViewById(R.id.layout).setBackgroundResource(R.drawable.walkthrough);
+        }
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

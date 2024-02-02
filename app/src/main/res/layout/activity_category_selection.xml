@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background1"
+    android:background="@drawable/walkthrough"
     app:layout_collapseMode="parallax"
     >
 
@@ -54,8 +54,8 @@
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:background="@drawable/grad_back"
+                        android:layout_height="280dp"
+                        android:background="@drawable/card"
                         android:paddingBottom="16dp">
 
                         <!-- ImageView inside CardView -->
@@ -77,7 +77,7 @@
                             android:layout_height="wrap_content"
                             android:layout_below="@id/pestid"
                             android:layout_centerInParent="true"
-                            android:layout_marginTop="10dp"
+                            android:layout_marginTop="15dp"
                             android:gravity="center"
                             android:text="Vegetables"
                             android:textColor="#FFFFFF"
@@ -92,16 +92,16 @@
                             android:id="@+id/btnVegetables"
                             style="@style/MyButtonStyle"
                             android:layout_width="120dp"
-                            app:backgroundTint="@null"
                             android:layout_height="wrap_content"
                             android:layout_below="@id/titleTextView"
                             android:layout_centerHorizontal="true"
-                            android:layout_marginTop="8dp"
+                            android:layout_marginTop="15dp"
                             android:background="@drawable/rounded_gradient_button"
-                            android:elevation="8dp"
+                            android:elevation="15dp"
                             android:onClick="btn_disease_module"
                             android:text="Let's Start"
-                            android:textColor="@android:color/white" />
+                            android:textColor="@android:color/white"
+                            app:backgroundTint="@null" />
 
                     </RelativeLayout>
                 </androidx.cardview.widget.CardView>
@@ -122,8 +122,8 @@
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:background="@drawable/grad_back"
+                        android:layout_height="280dp"
+                        android:background="@drawable/card"
                         android:paddingBottom="16dp"
 
 
@@ -150,7 +150,7 @@
                             android:layout_height="wrap_content"
                             android:layout_below="@id/pestid1"
                             android:layout_centerInParent="true"
-                            android:layout_marginTop="10dp"
+                            android:layout_marginTop="15dp"
                             android:gravity="center"
                             android:text="Fruits"
                             android:textColor="#FFFFFF"
@@ -168,7 +168,7 @@
                             android:layout_height="wrap_content"
                             android:layout_below="@id/titleTextView1"
                             android:layout_centerHorizontal="true"
-                            android:layout_marginTop="8dp"
+                            android:layout_marginTop="15dp"
                             android:background="@drawable/rounded_gradient_button"
                             android:elevation="8dp"
                             android:onClick="btn_flowers_module"
@@ -195,8 +195,8 @@
 
                     <RelativeLayout
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:background="@drawable/grad_back"
+                        android:layout_height="280dp"
+                        android:background="@drawable/card"
                         android:paddingBottom="16dp">
 
                         <!-- ImageView inside CardView -->
@@ -220,7 +220,7 @@
                             android:layout_height="wrap_content"
                             android:layout_below="@id/pestid2"
                             android:layout_centerInParent="true"
-                            android:layout_marginTop="10dp"
+                            android:layout_marginTop="15dp"
                             android:gravity="center"
                             android:text="Flowers"
                             android:textColor="#FFFFFF"
@@ -238,7 +238,7 @@
                             android:layout_height="wrap_content"
                             android:layout_below="@id/titleTextView2"
                             android:layout_centerHorizontal="true"
-                            android:layout_marginTop="8dp"
+                            android:layout_marginTop="15dp"
                             android:background="@drawable/rounded_gradient_button"
                             android:elevation="8dp"
                             android:onClick="btn_pest_module"

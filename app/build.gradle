@@ -6,7 +6,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.plant_disease_detection"
+        applicationId 'com.example.MyPaudha_Advanced_Agriculture_App'
         minSdk 21
         targetSdk 32
         versionCode 1

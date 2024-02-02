@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Plant Disease Detector</string>
+    <string name="app_name">MyPaudha</string>
     <string name="leaf_disease_image">Image showing a leaf with disease</string>
     <string name="result_default_text">Please select an image to detect plant disease</string>
     <string name="plant_image_description1">Plant Image 1</string>

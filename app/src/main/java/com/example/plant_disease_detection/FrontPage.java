@@ -62,13 +62,13 @@ public class FrontPage extends AppCompatActivity {
         startActivity(new Intent(getApplicationContext(), MainActivity.class));
     }
     public void btn_flowers_module(View view){
-        startActivity(new Intent(getApplicationContext(),Soil_Detection_Activity.class));
+        startActivity(new Intent(getApplicationContext(), Flower_Detection_Activity.class));
     }
     public void btn_pest_module(View view){
         startActivity(new Intent(getApplicationContext(),Pest_Detection_Activity.class));
     }
     public void btn_medicinal_module(View view){
-        startActivity(new Intent(getApplicationContext(),nutrient_deficiency_Activity.class));
+        startActivity(new Intent(getApplicationContext(), MedicinalPlants_Activity.class));
     }
     public void btn_HowToGrow(View view){
         startActivity(new Intent(getApplicationContext(),CategorySelectionActivity.class));

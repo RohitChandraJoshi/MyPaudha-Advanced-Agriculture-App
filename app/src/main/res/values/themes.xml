@@ -13,7 +13,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
-
+        <item name="android:windowFullscreen">true</item>
     </style>
     <style name="CardView." parent="CardView">
         <item name="android:background">@drawable/grad_back</item>

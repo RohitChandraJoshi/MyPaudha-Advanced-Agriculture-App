@@ -2,6 +2,7 @@ package com.example.plant_disease_detection;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.WindowManager;
 
 import com.shashank.sony.fancywalkthroughlib.FancyWalkthroughActivity;
 import com.shashank.sony.fancywalkthroughlib.FancyWalkthroughCard;
@@ -14,7 +15,7 @@ public class WalkThrough extends FancyWalkthroughActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
         FancyWalkthroughCard fancywalkthroughCard1 = new FancyWalkthroughCard("Detect Plant Disease", "Explore our advanced disease detection technology for plants. Identify diseases early to ensure the health of your plants.", R.drawable.disease_logo);
 
         fancywalkthroughCard1.setBackgroundColor(R.color.white);
@@ -49,7 +50,7 @@ public class WalkThrough extends FancyWalkthroughActivity {
         pages.add(fancywalkthroughCard5);
 
         setOnboardPages(pages);
-        setImageBackground(R.drawable.background1);
+        setImageBackground(R.drawable.walkthrough);
     }
 
     @Override
